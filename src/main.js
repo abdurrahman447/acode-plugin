@@ -3,7 +3,8 @@ import plugin from '../plugin.json';
 class AcodePlugin {
 
   async init() {
-    // plugin initialisation 
+    window.alert("selam")
+    window.toast("selam")
   }
 
   async destroy() {
